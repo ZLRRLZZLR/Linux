@@ -1,0 +1,10 @@
+total 44
+-rw-rw-r-- 1 zlr zlr     0 Oct 15 16:19 log.txt
+-rw-rw-r-- 1 zlr zlr    95 Oct 15 13:46 Makefile
+-rwxrwxr-x 1 zlr zlr 28720 Oct 15 16:18 myshell
+-rw-rw-r-- 1 zlr zlr  7639 Oct 15 16:18 myshell.cc
+total 48
+-rw-rw-r-- 1 zlr zlr   205 Oct 15 16:19 log.txt
+-rw-rw-r-- 1 zlr zlr    95 Oct 15 13:46 Makefile
+-rwxrwxr-x 1 zlr zlr 28720 Oct 15 16:18 myshell
+-rw-rw-r-- 1 zlr zlr  7639 Oct 15 16:18 myshell.cc

@@ -10,3 +10,4 @@ $(BIN):$(OBJ)
 .PHONY:clean
 clean:
 	rm -rf $(OBJ) $(BIN)
+
